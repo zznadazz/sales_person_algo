@@ -1,3 +1,3 @@
 # sales_person_algo
 
-This project aims to visualize the Traveling SalesMan algorithm using Pygame
+This project aims to visualize and solve the Traveling SalesMan problem using Pygame
